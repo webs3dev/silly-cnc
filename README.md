@@ -1,6 +1,6 @@
 
 
-very simple explanation of the cnc 
+very simple explanation of the silly-cnc 
   -> cnc / admin
 - `dbHost`
 - `dbUser`
