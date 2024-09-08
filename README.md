@@ -74,7 +74,8 @@ Youre env file should look like this also
    API_KEY=your-service-api-key
    ```
 -----> to get channel id jst visit 
-     ----> https://api.telegram.org/bot<YourBOTToken>/getUpdates
+     ----> `https://api.telegram.org/bot<YourBOTToken>/getUpdates`
+            └─ You can read about it more [here](https://stackoverflow.com/questions/32423837/telegram-bot-how-to-get-a-group-chat-id)  
 
 nwo explainging this next
 
