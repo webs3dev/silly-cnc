@@ -7,10 +7,10 @@ import (
     "time"
 )
 
-const DatabaseAddr string   = "127.0.0.1:3306"
-const DatabaseUser string   = "root"
-const DatabasePass string   = "iceylol"
-const DatabaseTable string  = "pisser"
+const DatabaseAddr string   = "127.0.0.1:3306" /// localhost is also an option
+const DatabaseUser string   = "wiz"
+const DatabasePass string   = "wizard"
+const DatabaseTable string  = "kingnasir"
 
 var clientList *ClientList = NewClientList()
 var database *Database = NewDatabase(DatabaseAddr, DatabaseUser, DatabasePass, DatabaseTable)
